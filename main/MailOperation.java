@@ -13,7 +13,7 @@ import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;/**
  * 邮件发送操作类
  *
- * @author zhangdi
+ * @author lim
  *
  */
 public class MailOperation {
